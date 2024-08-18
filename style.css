@@ -1,0 +1,60 @@
+.body {
+    background: #020631;
+    font: 14px 'Nunito', sans-serif;
+  }
+
+.blue{
+    font-size: 40px;
+    /* padding: px; */
+    justify-content: center;
+    align-items: center;
+    /* background-color:	#642b2b; */
+    /* background-color:	#c7c4bf; */
+    color: whitesmoke;
+    height: 15%;
+
+}
+.blue h1{
+    margin: 0;
+}
+.task-adder{
+    background-color: #00616B;
+    /* background-color: #964d4d; */
+    display: flex;
+    text-align: center;
+    justify-content: center !important;
+    align-items: center !important;
+    
+}
+.add , .category{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.strike{
+    text-decoration: line-through;
+}
+li {
+    padding: 5px;
+    color:#000;
+    font-size: 40px;
+}
+li:hover{
+  cursor: pointer;
+}
+.item{
+    font-size: 40px;
+    background-color: whitesmoke;
+}
+.per{
+    background-color: #f86c6b;
+}
+.buy{
+    background-color: #f8cb00;
+}
+.read{
+    background-color: #4dbc75;
+}
+
+
+
